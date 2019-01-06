@@ -4,4 +4,11 @@ Cold and dry but everything is my favorite color.
 
 The two moons may be a problem for Wolfman.
 
+<<<<<<< HEAD
 I believe the Wolfman will fall in deep love with each of these moons!
+=======
+This is a change I made that is better than yours.
+>>>>>>> 087e4cc8e28d6db1e844ca4d10d9e1d7850a54b8
+
+
+whatever, i'll keep all of them.
